@@ -1,0 +1,21 @@
+lista para todas la clases
+- datos quemados
+
+funcionalidades esperadas
+
+- como usuario puedo listar los vuelos -- listo
+
+- como usuario puedo agregar vuelos desde la consla y mostrar el registro en la consola
+
+
+y desde archivo de exel
+- como usuario puedo modificar la informacion (horas dellega y salida) y estado del vuelo
+- como usuario puedo listar la aeronaves que operan en el aeropuerto
+- como usuario puedo ver la liasta de aeropuertos
+- como usuario puedo ver el estado actual del clima en un aeruerto
+- como usuario puedo ver la lista de aeronaves
+
+funcionalidades internas
+
+- simular el clima
+- obtener datos de un exel     -- investigar

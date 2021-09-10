@@ -1,0 +1,29 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Î¦îûûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‡±ˆ¨ùÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(‰“†ì
+V	java:S125'"<This block of commented-out lines of code should be removed.(‹Ñ–şÿÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ƒ”“şÿÿÿÿ
+V	java:S125."<This block of commented-out lines of code should be removed.(‹Ñ–şÿÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(†À¾³ùÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(»Ô›ìøÿÿÿÿ
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(¾ãÚú
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(éòÁ×
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(†À¾³ùÿÿÿÿ
+U	java:S106l"9Replace this use of System.out or System.err by a logger.(¶õÍî8œó—¶/
+\
+java:S11922"FDefine a constant instead of duplicating this literal "close" 3 times.(õèçÜ
+O
+java:S4973"9Use the "equals" method if value comparison was intended.(ÖÛîª
+O
+java:S4973"9Use the "equals" method if value comparison was intended.(ÖÛîª
+O
+java:S49737"9Use the "equals" method if value comparison was intended.(¡ø•‚
+T
+java:S4973>"9Use the "equals" method if value comparison was intended.( ¨“øÿÿÿÿ
+T
+java:S4973I"9Use the "equals" method if value comparison was intended.(¾Èû½øÿÿÿÿ
+T
+java:S4973I"9Use the "equals" method if value comparison was intended.(¾Èû½øÿÿÿÿ
+T
+java:S4973i"9Use the "equals" method if value comparison was intended.(ƒ¤µ›ÿÿÿÿÿ
